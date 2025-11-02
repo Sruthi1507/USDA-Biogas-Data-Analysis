@@ -29,5 +29,5 @@ Support for policy and sustainability analysis through visual insights.
 
 **Below Attached Dashboard Link for the Tableau Project :**
 
-https://public.tableau.com/authoring/USDABiogasDataAnalysis/Dashboard1#1
+https://public.tableau.com/app/profile/sruthi.biyyala/viz/USDABiogasDataAnalysis/Dashboard1
 
